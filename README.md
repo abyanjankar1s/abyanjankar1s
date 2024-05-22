@@ -1,7 +1,5 @@
--  Hi, I’m Aayush 
--  I’m interested in Software Development.
--  I’m currently learning Frontend Web development.(HTML,CSS,Javascript) and Java. 
--  I’m looking to gain some experience in the field with any web dev or software dev. 
+-  Aayush Byanjankar
+-  Software Developer 
 -  My email - Aayush.byanjankar28@gmail.com
 
 <!---
