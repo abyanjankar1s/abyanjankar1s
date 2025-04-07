@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer <br>Looking for projects to work on. 
+Data Analyst | Tableau | Excel | SQL | Python
 
 
 ## 🌐 Socials:
